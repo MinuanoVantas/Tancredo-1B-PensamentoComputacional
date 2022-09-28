@@ -1,8 +1,20 @@
 body{
-    background:#b95ce4;
+    background:#fff4c1;
     text-align: center;
+    margin: 50px;
 }
 
 .capa{
     width: 100%;
+}
+
+.introducao{
+    padding: 25px;
+}
+
+.beneficios{
+    margin: 25px;
+    padding:25px;
+    background-color: rgb(255, 223, 61);
+    text-align: left;
 }
